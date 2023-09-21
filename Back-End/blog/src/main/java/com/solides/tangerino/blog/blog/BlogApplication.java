@@ -1,4 +1,4 @@
-package com.solides.tangerino.blog;
+package com.solides.tangerino.blog.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
